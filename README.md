@@ -1,6 +1,6 @@
 # nand2tetris
 
-This project follows the content of the course "From Nand to Tetris" to create a Von Neumann Computer from the scratch using the nand logic gate as the most basic building block.
+This project follows the content of the course "From Nand to Tetris" to create a Harvard Computer Architecture from the scratch using the nand logic gate as the most basic building block.
 
 ## Tools
 
